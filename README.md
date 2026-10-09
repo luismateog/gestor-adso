@@ -4,7 +4,7 @@ Nombre del repositorio:
 
 Repositorio del proyecto integrador **Gestor ADSO**, una aplicación web en desarrollo para apoyar la gestión en el contexto del programa de Análisis y Desarrollo de Software (ADSO). Este repositorio contiene actualmente la base de una aplicación Laravel y sus migraciones iniciales.
 
-Repositorio remoto: <https://github.com/wljuancho/gestor_adso>
+Repositorio remoto: https://github.com/luismateog/gestor-adso.git
 
 ## Herramientas y versiones del equipo
 
@@ -54,7 +54,7 @@ git version 2.54.0.windows.1
 
 ## Instalación y configuración
 
-Abre PowerShell y clona el repositorio:
+Abre PowerShell y clona el repositorio: git clone https://github.com/luismateog/gestor-adso.git
 
 ```powershell
 git clone 
